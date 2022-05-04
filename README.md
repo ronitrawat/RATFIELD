@@ -1,6 +1,6 @@
 # RATFIELD
 A SNAKE GAME(USING PYTHON)
-A SNAKE GAME(USING PYTHON)
+
 This Game Is Made Using Python 3.10.2 & Pygame Module . 
 TO GET THE CODE CLICK ON new.py
 If you are using the code kindly downlaod the image and music also from the repository or u can use your own and change the src.
